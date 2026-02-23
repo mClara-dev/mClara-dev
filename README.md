@@ -1,5 +1,8 @@
 <h2 align="center">Hello World! I'm Clara, be very welcome to my profile</h2>
 
+<h1 align="center">I am a Systems Analysis and Development student at the Federal Institute of Bahia, with a strong interest in data analysis and backend development. My goal is to continuously improve my Python skills and deepen my understanding of software engineering best practices. Through technology, I strive to build practical and efficient solutions to everyday problems.</h1>
+
+
 ###
 
 <h3 align="left">🛠️Tech stack</h3>
